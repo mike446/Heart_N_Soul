@@ -1,1 +1,2 @@
-# Brother-Keeper
+# Brother's Keeper 
+Brother's Keeper" is dedicated to uplifting and empowering Black men by connecting them with vital resources, mentorship, and community support. Our mission is to create a platform that fosters growth, unity, and achievement, guiding individuals through every step of their educational and personal journeys. We aim to be a trusted ally, ensuring that no brother walks his path alone.
