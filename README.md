@@ -10,3 +10,6 @@ African Americans 30% more likely to die from it compared to non-Hispanic whites
 Lack of accessible tools for early detection and personalized recommendations​
 
 ![image](https://github.com/user-attachments/assets/7e670ddc-88ad-4e6b-9941-2e50378e5b74)
+
+# Our Objective 
+![image](https://github.com/user-attachments/assets/de27afd2-8453-4ac3-b49b-e461583a7884)
