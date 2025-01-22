@@ -1,6 +1,8 @@
 # Heart N' Soul
 * The problem​ *
 Key Challenges in Addressing Heart Health Disparities​
+
+https://github.com/user-attachments/assets/daeb6d54-baf2-495b-aa06-4cc46e06161f
  
 1. Healthcare Disparities:​
 Significant disparities in access and quality of healthcare among Black Community​
@@ -13,3 +15,6 @@ Lack of accessible tools for early detection and personalized recommendations​
 
 # Our Objective 
 ![image](https://github.com/user-attachments/assets/de27afd2-8453-4ac3-b49b-e461583a7884)
+
+
+
